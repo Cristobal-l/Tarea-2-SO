@@ -1,0 +1,11 @@
+# Entrada 
+DELAY_MIN_MS=50
+DELAY_MAX_MS=300
+SEED=20261030
+
+# Estado inicial del tablero
+PUMA_POS=0
+PERROS_POS=16,17,18,19,20,21,22,23,24,25,26,27
+
+# Probabilidad de simular desconexión
+PROB_FALLO_MILESIMAS=0
